@@ -1,1 +1,1 @@
-Proyecto de portafoli web para curso de front end
+Proyecto de portafolio web para curso de front end
